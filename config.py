@@ -16,7 +16,7 @@ APP_SECRET = os.getenv('APP_SECRET')
 WEBHOOK_SECRET = os.getenv('WEBHOOK_SECRET')
 
 # Webhook trigger word
-WEBHOOK_TRIGGER = '@py-echo'
+WEBHOOK_TRIGGER = '@py-echo2'
 
 # Send message color
 MESSAGE_COLOR = '#006600'
